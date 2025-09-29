@@ -1,7 +1,7 @@
 ## Hello, I'm Daniel V.!
 
- Mobile Developer 💻📱
- I’m from Cuba, living on the great Brazil 🇨🇺❤️🇧🇷
+ Developer 💻📱
+From Cuba, living on the great Brazil 🇨🇺❤️🇧🇷
  
 ## About me
 
