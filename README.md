@@ -1,7 +1,7 @@
-## Hello, I'm Daniel V.!
+## Hi, I'm Daniel V.!
 
- Developer 💻📱
-From Cuba, living on the great Brazil 🇨🇺❤️🇧🇷
+Developer 💻📱
+🇨🇺❤️🇧🇷
  
 ## About me
 
@@ -23,7 +23,7 @@ From Cuba, living on the great Brazil 🇨🇺❤️🇧🇷
 ![Sqlite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+
 <!--
 ## Frameworks: 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
@@ -35,7 +35,6 @@ From Cuba, living on the great Brazil 🇨🇺❤️🇧🇷
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dcapote92)](https://github.com/dcapote92/github-readme-stats)
 ---
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
