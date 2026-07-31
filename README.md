@@ -1,7 +1,6 @@
 ## Hi, I'm Daniel V.!
 
 Developer 💻📱
-🇨🇺❤️🇧🇷
  
 ## About me
 
